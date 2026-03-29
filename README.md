@@ -232,8 +232,8 @@ Leader agents (e.g., the professor) demonstrated disproportionate positive impac
 
 1. **Clone or download** this repository:
    ```bash
-   git clone https://github.com/Sidharthkris/emergency-evacuation-abm.git
-   cd emergency-evacuation-abm
+   git clone https://github.com/Sidharthkris/emergency-evacuation-simulation.git
+   cd emergency-evacuation-simulation
    ```
 
 2. **Open NetLogo** on your system.
